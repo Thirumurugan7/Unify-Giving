@@ -75,8 +75,7 @@ const Content = () => {
                 <WalletMultiButton />
             </div>
             <div className="flex flex-col items-center justify-center pb-4">
-                <img src={'/civic-logo-orange.svg'} className="pr-4 w-48 h-48"/>
-                <div className="text-2xl">Airdrop Demo</div>
+     
               <div>
               <div className="  bricolage-font pb-6" >
         <div className=" pt-8">
